@@ -6,3 +6,4 @@ git tracks changes of files.
 需执行git pull --rebase origin master即可，将本地仓库和远程合并
 
 creating a new a branch is quick and simple.
+add merge.
